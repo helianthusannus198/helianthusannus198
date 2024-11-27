@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helianthusannus198
-- 👀 I’m interested in Quality Management in Manufacturing,Machine Learning and Satellites Communications.
-- 🌱 I’m currently learning ML and satellites communication.
+- 👀 I’m interested in Quality Management in Manufacturing, Machine Learning and Mininet.
+- 🌱 I’m currently learning ML, DDOS and Mininet.
 - 💞️ I’m looking to collaborate on ML and Mininet projects.
 - 📫 Reach me by Line/Wechat: letbepatient198
 - 😄 Pronouns: ...
